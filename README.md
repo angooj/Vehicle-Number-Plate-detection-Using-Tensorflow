@@ -3,6 +3,8 @@
 ## Categoty - Object detection & OCR
 ### We have to identify the license place in the image provided and do an OCR to extract the characters from the detected license plate.
 #### The project developed using TensorFlow to detect the License Plate from a car and uses the Tesseract Engine to recognize the charactes from the detected plate.
+* Dataset given in [**Indian_Number_plates.json file**](Indian_Number_plates.json)
+* To see the results open [**OCR_detected_license_plate_using_Tensorflow.ipynb file**](OCR_detected_license_plate_using_Tensorflow.ipynb)
 
 ### Software Packs Needed
 * Anaconda 3 (Tool comes with most of the required python packages along with python3 & spyder IDE)
